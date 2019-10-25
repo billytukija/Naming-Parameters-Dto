@@ -1,0 +1,11 @@
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\bin\Debug\netcoreapp2.2\NamingParameters.deps.json
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\bin\Debug\netcoreapp2.2\NamingParameters.runtimeconfig.json
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\bin\Debug\netcoreapp2.2\NamingParameters.runtimeconfig.dev.json
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\bin\Debug\netcoreapp2.2\NamingParameters.dll
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\bin\Debug\netcoreapp2.2\NamingParameters.pdb
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\obj\Debug\netcoreapp2.2\NamingParameters.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\obj\Debug\netcoreapp2.2\NamingParameters.csproj.CoreCompileInputs.cache
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\obj\Debug\netcoreapp2.2\NamingParameters.AssemblyInfoInputs.cache
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\obj\Debug\netcoreapp2.2\NamingParameters.AssemblyInfo.cs
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\obj\Debug\netcoreapp2.2\NamingParameters.dll
+C:\Users\billy.richard\Documents\GitHub\NamingParameters\NamingParameters\obj\Debug\netcoreapp2.2\NamingParameters.pdb
